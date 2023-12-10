@@ -51,7 +51,7 @@ Courses ​​and technologies studied: `C and C++ Developer`, `Computer Network
   <a align="right" href="https://github.com/gleicehl/StudyPython" title="StudyPython"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=gleicehl&repo=StudyPython&theme=react&border_color=B22222&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
-
+<br>
 <h4 align="center">
   <a href="https://github.com/gleicehl?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
