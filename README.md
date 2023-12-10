@@ -26,7 +26,7 @@ Languages ​​and technologies studied: `Python`, `SQL`, `MySQL`, `PostgreSQL`
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://hermes.dio.me/companies/a169bb67-5f72-4289-9778-fcea58dfa19a.png"/>](https://www.dio.me/en)
 
 **Student** \
-[**DIO: **](https://www.dio.me/en) • Student \
+[**DIO:**](https://www.dio.me/en) • Student \
 Courses ​​and technologies studied: `C and C++ Developer`, `Computer Network`, `Cloud DevOps`, `Data Science with Python`, `SQL Satabate Specialist`, `IoT Specialist`, `AWS Cloud Practitioner`, `Java developer`\
 <!--Projetos em destaque: [App](https://nubank.com.br/)-->
 <br/>
